@@ -1,184 +1,104 @@
 
- 2023/01/02 18:14:10: 
- ¡·¡·¡·Error:¡¾Á¬½Ó³¬Ê±¡¿ https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02022-11.m3u
+ 2023/01/02 18:47:55: 
+ ã€‹ã€‹ã€‹ã€Successã€‘: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02022-11.m3u
 
 
- 2023/01/02 18:14:10: 
- ¡·¡·¡·ÖØÊÔµÚ1´Î
+ 2023/01/02 18:47:55: 
+ ã€‹ã€‹ã€‹ã€Successã€‘: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 
- 2023/01/02 18:14:24: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02022-11.m3u
 
+ 2023/01/02 18:47:55: 
+ ã€‹ã€‹ã€‹ã€Successã€‘: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u
 
- 2023/01/02 18:14:34: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 
+ 2023/01/02 18:47:55: 
+ ã€‹ã€‹ã€‹ã€Successã€‘: https://iptv-org.github.io/iptv/countries/cn.m3u
 
- 2023/01/02 18:14:38: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u
 
+ 2023/01/02 18:47:55: 
+ ã€‹ã€‹ã€‹ã€Successã€‘: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
 
- 2023/01/02 18:14:43: 
- ¡·¡·¡·¡¾Success¡¿: https://iptv-org.github.io/iptv/countries/cn.m3u
 
+ 2023/01/02 18:47:55: 
+ ã€‹ã€‹ã€‹ã€Successã€‘: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
 
- 2023/01/02 18:14:48: 
- ¡·¡·¡·Error:¡¾Á¬½Ó³¬Ê±¡¿ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
 
+ 2023/01/02 18:47:55: 
+ ã€‹ã€‹ã€‹ã€Successã€‘: https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
 
- 2023/01/02 18:14:48: 
- ¡·¡·¡·ÖØÊÔµÚ1´Î
 
- 2023/01/02 18:14:53: 
- ¡·¡·¡·Error:¡¾Á¬½Ó³¬Ê±¡¿ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
+ 2023/01/02 18:47:57: 
+ ã€‹ã€‹ã€‹ã€Successã€‘: http://52bsj.vip:81/api/v3/file/get/59999/chao.txt?sign=MxUTj-WzZR3Nf8K1Sbdc0jbv5_UguTzDEfXoaBc5qTA%3D%3A0
 
 
- 2023/01/02 18:14:53: 
- ¡·¡·¡·ÖØÊÔµÚ2´Î
+ 2023/01/02 18:47:58: 
+ ã€‹ã€‹ã€‹ã€Successã€‘: https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/LIVE/Free/tvbox_live.txt
 
- 2023/01/02 18:15:01: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
 
+ 2023/01/02 18:47:58: 
+ ã€‹ã€‹ã€‹ã€Successã€‘: https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
 
- 2023/01/02 18:15:06: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
 
+ 2023/01/02 18:47:58: 
+ ã€‹ã€‹ã€‹ã€Successã€‘: https://raw.githubusercontent.com/Zeb-L/box_tvlive/bf/%E8%87%AA%E9%80%89%E9%A2%91%E9%81%93.txt
 
- 2023/01/02 18:15:08: 
- ¡·¡·¡·Error:¡¾Á¬½Ó³¬Ê±¡¿ https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
 
+ 2023/01/02 18:47:58: 
+ ã€‹ã€‹ã€‹å…¨éƒ¨ æºæ•°é‡:1871  å»é‡å: 1818
 
- 2023/01/02 18:15:08: 
- ¡·¡·¡·ÖØÊÔµÚ1´Î
+ 2023/01/02 18:47:59: 
+ ã€‹ã€‹ã€‹all_list.txt å·²ç»æ›´æ–°
 
- 2023/01/02 18:15:14: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
+ 2023/01/02 18:47:59: 
+ ã€‹ã€‹ã€‹å¤®è§†é¢‘é“ æºæ•°é‡:198  å»é‡å: 198
 
+ 2023/01/02 18:52:26: 
+ ã€‹ã€‹ã€‹å¤®è§†é¢‘é“  ã€å…¨éƒ¨æºæ•°é‡:  198  |  å»é‡åæºæ•°é‡:  198  |  åœ¨çº¿æºæ•°é‡:  104 ã€‘
 
- 2023/01/02 18:15:14: 
- ¡·¡·¡·¡¾Success¡¿: http://52bsj.vip:81/api/v3/file/get/59999/chao.txt?sign=MxUTj-WzZR3Nf8K1Sbdc0jbv5_UguTzDEfXoaBc5qTA%3D%3A0
+ 2023/01/02 18:52:26: 
+ ã€‹ã€‹ã€‹å«è§†é¢‘é“ æºæ•°é‡:279  å»é‡å: 278
 
+ 2023/01/02 18:58:10: 
+ ã€‹ã€‹ã€‹å«è§†é¢‘é“  ã€å…¨éƒ¨æºæ•°é‡:  279  |  å»é‡åæºæ•°é‡:  278  |  åœ¨çº¿æºæ•°é‡:  183 ã€‘
 
- 2023/01/02 18:15:16: 
- ¡·¡·¡·¡¾Success¡¿: https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/LIVE/Free/tvbox_live.txt
+ 2023/01/02 18:58:10: 
+ ã€‹ã€‹ã€‹ä½“è‚²é¢‘é“ æºæ•°é‡:83  å»é‡å: 78
 
+ 2023/01/02 18:59:29: 
+ ã€‹ã€‹ã€‹ä½“è‚²é¢‘é“  ã€å…¨éƒ¨æºæ•°é‡:  83  |  å»é‡åæºæ•°é‡:  78  |  åœ¨çº¿æºæ•°é‡:  27 ã€‘
 
- 2023/01/02 18:15:21: 
- ¡·¡·¡·Error:¡¾Á¬½Ó³¬Ê±¡¿ https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+ 2023/01/02 18:59:30: 
+ ã€‹ã€‹ã€‹å½±è§†é¢‘é“ æºæ•°é‡:75  å»é‡å: 74
 
+ 2023/01/02 19:00:46: 
+ ã€‹ã€‹ã€‹å½±è§†é¢‘é“  ã€å…¨éƒ¨æºæ•°é‡:  75  |  å»é‡åæºæ•°é‡:  74  |  åœ¨çº¿æºæ•°é‡:  31 ã€‘
 
- 2023/01/02 18:15:21: 
- ¡·¡·¡·ÖØÊÔµÚ1´Î
+ 2023/01/02 19:00:46: 
+ ã€‹ã€‹ã€‹éŸ³ä¹é¢‘é“ æºæ•°é‡:10  å»é‡å: 9
 
- 2023/01/02 18:15:25: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+ 2023/01/02 19:00:58: 
+ ã€‹ã€‹ã€‹éŸ³ä¹é¢‘é“  ã€å…¨éƒ¨æºæ•°é‡:  10  |  å»é‡åæºæ•°é‡:  9  |  åœ¨çº¿æºæ•°é‡:  4 ã€‘
 
+ 2023/01/02 19:00:58: 
+ ã€‹ã€‹ã€‹æ–°é—»é¢‘é“ æºæ•°é‡:146  å»é‡å: 144
 
- 2023/01/02 18:15:30: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/Zeb-L/box_tvlive/bf/%E8%87%AA%E9%80%89%E9%A2%91%E9%81%93.txt
+ 2023/01/02 19:03:22: 
+ ã€‹ã€‹ã€‹æ–°é—»é¢‘é“  ã€å…¨éƒ¨æºæ•°é‡:  146  |  å»é‡åæºæ•°é‡:  144  |  åœ¨çº¿æºæ•°é‡:  90 ã€‘
 
- 2023/01/02 18:15:30: 
- ¡·¡·¡·È«²¿ Ô´ÊıÁ¿:1871  È¥ÖØºó: 1818
+ 2023/01/02 19:03:22: 
+ ã€‹ã€‹ã€‹å°‘å„¿é¢‘é“ æºæ•°é‡:43  å»é‡å: 41
 
- 2023/01/02 18:20:42: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02022-11.m3u
+ 2023/01/02 19:04:02: 
+ ã€‹ã€‹ã€‹å°‘å„¿é¢‘é“  ã€å…¨éƒ¨æºæ•°é‡:  43  |  å»é‡åæºæ•°é‡:  41  |  åœ¨çº¿æºæ•°é‡:  23 ã€‘
 
+ 2023/01/02 19:04:02: 
+ ã€‹ã€‹ã€‹æˆæ›²é¢‘é“ æºæ•°é‡:1  å»é‡å: 1
 
- 2023/01/02 18:20:44: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+ 2023/01/02 19:04:03: 
+ ã€‹ã€‹ã€‹æˆæ›²é¢‘é“  ã€å…¨éƒ¨æºæ•°é‡:  1  |  å»é‡åæºæ•°é‡:  1  |  åœ¨çº¿æºæ•°é‡:  1 ã€‘
 
+ 2023/01/02 19:04:03: 
+ ã€‹ã€‹ã€‹æ›´å¤šé¢‘é“ æºæ•°é‡:58  å»é‡å: 54
 
- 2023/01/02 18:20:47: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u
-
-
- 2023/01/02 18:20:55: 
- ¡·¡·¡·¡¾Success¡¿: https://iptv-org.github.io/iptv/countries/cn.m3u
-
-
- 2023/01/02 18:20:57: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
-
-
- 2023/01/02 18:20:58: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
-
-
- 2023/01/02 18:21:00: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
-
-
- 2023/01/02 18:21:01: 
- ¡·¡·¡·¡¾Success¡¿: http://52bsj.vip:81/api/v3/file/get/59999/chao.txt?sign=MxUTj-WzZR3Nf8K1Sbdc0jbv5_UguTzDEfXoaBc5qTA%3D%3A0
-
-
- 2023/01/02 18:21:03: 
- ¡·¡·¡·¡¾Success¡¿: https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/LIVE/Free/tvbox_live.txt
-
-
- 2023/01/02 18:21:06: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
-
-
- 2023/01/02 18:21:08: 
- ¡·¡·¡·¡¾Success¡¿: https://raw.githubusercontent.com/Zeb-L/box_tvlive/bf/%E8%87%AA%E9%80%89%E9%A2%91%E9%81%93.txt
-
- 2023/01/02 18:21:08: 
- ¡·¡·¡·È«²¿ Ô´ÊıÁ¿:1871  È¥ÖØºó: 1818
-
- 2023/01/02 18:21:15: 
- ¡·¡·¡·all_list.txt ÒÑ¾­¸üĞÂ
-
- 2023/01/02 18:21:15: 
- ¡·¡·¡·ÑëÊÓÆµµÀ Ô´ÊıÁ¿:198  È¥ÖØºó: 198
-
- 2023/01/02 18:23:21: 
- ¡·¡·¡·ÑëÊÓÆµµÀ  ¡¾È«²¿Ô´ÊıÁ¿:  198  |  È¥ÖØºóÔ´ÊıÁ¿:  198  |  ÔÚÏßÔ´ÊıÁ¿:  103 ¡¿
-
- 2023/01/02 18:23:21: 
- ¡·¡·¡·ÎÀÊÓÆµµÀ Ô´ÊıÁ¿:279  È¥ÖØºó: 278
-
- 2023/01/02 18:26:17: 
- ¡·¡·¡·ÎÀÊÓÆµµÀ  ¡¾È«²¿Ô´ÊıÁ¿:  279  |  È¥ÖØºóÔ´ÊıÁ¿:  278  |  ÔÚÏßÔ´ÊıÁ¿:  174 ¡¿
-
- 2023/01/02 18:26:17: 
- ¡·¡·¡·ÌåÓıÆµµÀ Ô´ÊıÁ¿:83  È¥ÖØºó: 78
-
- 2023/01/02 18:27:32: 
- ¡·¡·¡·ÌåÓıÆµµÀ  ¡¾È«²¿Ô´ÊıÁ¿:  83  |  È¥ÖØºóÔ´ÊıÁ¿:  78  |  ÔÚÏßÔ´ÊıÁ¿:  28 ¡¿
-
- 2023/01/02 18:27:32: 
- ¡·¡·¡·Ó°ÊÓÆµµÀ Ô´ÊıÁ¿:75  È¥ÖØºó: 74
-
- 2023/01/02 18:28:26: 
- ¡·¡·¡·Ó°ÊÓÆµµÀ  ¡¾È«²¿Ô´ÊıÁ¿:  75  |  È¥ÖØºóÔ´ÊıÁ¿:  74  |  ÔÚÏßÔ´ÊıÁ¿:  34 ¡¿
-
- 2023/01/02 18:28:26: 
- ¡·¡·¡·ÒôÀÖÆµµÀ Ô´ÊıÁ¿:10  È¥ÖØºó: 9
-
- 2023/01/02 18:28:32: 
- ¡·¡·¡·ÒôÀÖÆµµÀ  ¡¾È«²¿Ô´ÊıÁ¿:  10  |  È¥ÖØºóÔ´ÊıÁ¿:  9  |  ÔÚÏßÔ´ÊıÁ¿:  4 ¡¿
-
- 2023/01/02 18:28:32: 
- ¡·¡·¡·ĞÂÎÅÆµµÀ Ô´ÊıÁ¿:146  È¥ÖØºó: 144
-
- 2023/01/02 18:30:12: 
- ¡·¡·¡·ĞÂÎÅÆµµÀ  ¡¾È«²¿Ô´ÊıÁ¿:  146  |  È¥ÖØºóÔ´ÊıÁ¿:  144  |  ÔÚÏßÔ´ÊıÁ¿:  94 ¡¿
-
- 2023/01/02 18:30:12: 
- ¡·¡·¡·ÉÙ¶ùÆµµÀ Ô´ÊıÁ¿:43  È¥ÖØºó: 41
-
- 2023/01/02 18:30:27: 
- ¡·¡·¡·ÉÙ¶ùÆµµÀ  ¡¾È«²¿Ô´ÊıÁ¿:  43  |  È¥ÖØºóÔ´ÊıÁ¿:  41  |  ÔÚÏßÔ´ÊıÁ¿:  23 ¡¿
-
- 2023/01/02 18:30:27: 
- ¡·¡·¡·Ï·ÇúÆµµÀ Ô´ÊıÁ¿:1  È¥ÖØºó: 1
-
- 2023/01/02 18:30:28: 
- ¡·¡·¡·Ï·ÇúÆµµÀ  ¡¾È«²¿Ô´ÊıÁ¿:  1  |  È¥ÖØºóÔ´ÊıÁ¿:  1  |  ÔÚÏßÔ´ÊıÁ¿:  1 ¡¿
-
- 2023/01/02 18:30:28: 
- ¡·¡·¡·¸ü¶àÆµµÀ Ô´ÊıÁ¿:58  È¥ÖØºó: 54
-
- 2023/01/02 18:31:13: 
- ¡·¡·¡·¸ü¶àÆµµÀ  ¡¾È«²¿Ô´ÊıÁ¿:  58  |  È¥ÖØºóÔ´ÊıÁ¿:  54  |  ÔÚÏßÔ´ÊıÁ¿:  22 ¡¿
+ 2023/01/02 19:04:36: 
+ ã€‹ã€‹ã€‹æ›´å¤šé¢‘é“  ã€å…¨éƒ¨æºæ•°é‡:  58  |  å»é‡åæºæ•°é‡:  54  |  åœ¨çº¿æºæ•°é‡:  23 ã€‘
