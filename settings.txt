@@ -1,3 +1,3 @@
 用户名=Zeb-L
-仓库名=actionsDemo
-分之名=bf
+仓库名=box_tvlive
+分支名=bf
