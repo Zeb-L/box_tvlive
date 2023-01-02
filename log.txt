@@ -1,95 +1,184 @@
 
- 2023/01/02 14:55:40: 
- 》》》【Success】: https://raw.iqiq.io/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02022-11.m3u
+ 2023/01/02 18:14:10: 
+ 》》》Error:【连接超时】 https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02022-11.m3u
 
 
- 2023/01/02 14:55:43: 
+ 2023/01/02 18:14:10: 
+ 》》》重试第1次
+
+ 2023/01/02 18:14:24: 
+ 》》》【Success】: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02022-11.m3u
+
+
+ 2023/01/02 18:14:34: 
+ 》》》【Success】: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+
+
+ 2023/01/02 18:14:38: 
+ 》》》【Success】: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u
+
+
+ 2023/01/02 18:14:43: 
  》》》【Success】: https://iptv-org.github.io/iptv/countries/cn.m3u
 
 
- 2023/01/02 14:55:44: 
- 》》》【Success】: https://raw.iqiq.io/zbefine/iptv/main/iptv.m3u
+ 2023/01/02 18:14:48: 
+ 》》》Error:【连接超时】 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
 
 
- 2023/01/02 14:55:45: 
+ 2023/01/02 18:14:48: 
+ 》》》重试第1次
+
+ 2023/01/02 18:14:53: 
+ 》》》Error:【连接超时】 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
+
+
+ 2023/01/02 18:14:53: 
+ 》》》重试第2次
+
+ 2023/01/02 18:15:01: 
+ 》》》【Success】: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
+
+
+ 2023/01/02 18:15:06: 
+ 》》》【Success】: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
+
+
+ 2023/01/02 18:15:08: 
+ 》》》Error:【连接超时】 https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
+
+
+ 2023/01/02 18:15:08: 
+ 》》》重试第1次
+
+ 2023/01/02 18:15:14: 
+ 》》》【Success】: https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
+
+
+ 2023/01/02 18:15:14: 
  》》》【Success】: http://52bsj.vip:81/api/v3/file/get/59999/chao.txt?sign=MxUTj-WzZR3Nf8K1Sbdc0jbv5_UguTzDEfXoaBc5qTA%3D%3A0
 
 
- 2023/01/02 14:55:47: 
+ 2023/01/02 18:15:16: 
  》》》【Success】: https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/LIVE/Free/tvbox_live.txt
 
 
- 2023/01/02 14:55:47: 
+ 2023/01/02 18:15:21: 
  》》》Error:【连接超时】 https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
 
- 2023/01/02 14:55:47: 
+
+ 2023/01/02 18:15:21: 
  》》》重试第1次
 
- 2023/01/02 14:55:47: 
- 》》》Error:【连接超时】 https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+ 2023/01/02 18:15:25: 
+ 》》》【Success】: https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
 
- 2023/01/02 14:55:47: 
- 》》》重试第2次
 
- 2023/01/02 14:55:47: 
- 》》》Error:【连接超时】 https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+ 2023/01/02 18:15:30: 
+ 》》》【Success】: https://raw.githubusercontent.com/Zeb-L/box_tvlive/bf/%E8%87%AA%E9%80%89%E9%A2%91%E9%81%93.txt
 
- 2023/01/02 14:55:47: 
- 》》》重试第3次
+ 2023/01/02 18:15:30: 
+ 》》》全部 源数量:1871  去重后: 1818
 
- 2023/01/02 14:55:47: 
- 》》》Error:【链接失效】 https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+ 2023/01/02 18:20:42: 
+ 》》》【Success】: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02022-11.m3u
 
- 2023/01/02 14:55:47: 
- 》》》央视频道 源数量:990  去重后: 681
 
- 2023/01/02 15:06:09: 
- 》》》央视频道  【全部源数量:  990  |  去重后源数量:  681  |  在线源数量:  265 】
+ 2023/01/02 18:20:44: 
+ 》》》【Success】: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 
- 2023/01/02 15:06:10: 
- 》》》卫视频道 源数量:1255  去重后: 741
 
- 2023/01/02 15:19:16: 
- 》》》卫视频道  【全部源数量:  1255  |  去重后源数量:  741  |  在线源数量:  325 】
+ 2023/01/02 18:20:47: 
+ 》》》【Success】: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u
 
- 2023/01/02 15:19:16: 
- 》》》体育频道 源数量:219  去重后: 151
 
- 2023/01/02 15:21:28: 
- 》》》体育频道  【全部源数量:  219  |  去重后源数量:  151  |  在线源数量:  64 】
+ 2023/01/02 18:20:55: 
+ 》》》【Success】: https://iptv-org.github.io/iptv/countries/cn.m3u
 
- 2023/01/02 15:21:28: 
- 》》》影视频道 源数量:581  去重后: 369
 
- 2023/01/02 15:26:00: 
- 》》》影视频道  【全部源数量:  581  |  去重后源数量:  369  |  在线源数量:  191 】
+ 2023/01/02 18:20:57: 
+ 》》》【Success】: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
 
- 2023/01/02 15:26:01: 
- 》》》音乐频道 源数量:51  去重后: 36
 
- 2023/01/02 15:26:31: 
- 》》》音乐频道  【全部源数量:  51  |  去重后源数量:  36  |  在线源数量:  13 】
+ 2023/01/02 18:20:58: 
+ 》》》【Success】: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
 
- 2023/01/02 15:26:31: 
- 》》》新闻频道 源数量:1101  去重后: 975
 
- 2023/01/02 15:33:37: 
- 》》》新闻频道  【全部源数量:  1101  |  去重后源数量:  975  |  在线源数量:  547 】
+ 2023/01/02 18:21:00: 
+ 》》》【Success】: https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
 
- 2023/01/02 15:33:37: 
- 》》》少儿频道 源数量:261  去重后: 142
 
- 2023/01/02 15:35:28: 
- 》》》少儿频道  【全部源数量:  261  |  去重后源数量:  142  |  在线源数量:  50 】
+ 2023/01/02 18:21:01: 
+ 》》》【Success】: http://52bsj.vip:81/api/v3/file/get/59999/chao.txt?sign=MxUTj-WzZR3Nf8K1Sbdc0jbv5_UguTzDEfXoaBc5qTA%3D%3A0
 
- 2023/01/02 15:35:28: 
- 》》》戏曲频道 源数量:7  去重后: 5
 
- 2023/01/02 15:35:29: 
- 》》》戏曲频道  【全部源数量:  7  |  去重后源数量:  5  |  在线源数量:  4 】
+ 2023/01/02 18:21:03: 
+ 》》》【Success】: https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/LIVE/Free/tvbox_live.txt
 
- 2023/01/02 15:35:29: 
- 》》》更多频道 源数量:120  去重后: 78
 
- 2023/01/02 15:36:29: 
- 》》》更多频道  【全部源数量:  120  |  去重后源数量:  78  |  在线源数量:  30 】
+ 2023/01/02 18:21:06: 
+ 》》》【Success】: https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+
+
+ 2023/01/02 18:21:08: 
+ 》》》【Success】: https://raw.githubusercontent.com/Zeb-L/box_tvlive/bf/%E8%87%AA%E9%80%89%E9%A2%91%E9%81%93.txt
+
+ 2023/01/02 18:21:08: 
+ 》》》全部 源数量:1871  去重后: 1818
+
+ 2023/01/02 18:21:15: 
+ 》》》all_list.txt 已经更新
+
+ 2023/01/02 18:21:15: 
+ 》》》央视频道 源数量:198  去重后: 198
+
+ 2023/01/02 18:23:21: 
+ 》》》央视频道  【全部源数量:  198  |  去重后源数量:  198  |  在线源数量:  103 】
+
+ 2023/01/02 18:23:21: 
+ 》》》卫视频道 源数量:279  去重后: 278
+
+ 2023/01/02 18:26:17: 
+ 》》》卫视频道  【全部源数量:  279  |  去重后源数量:  278  |  在线源数量:  174 】
+
+ 2023/01/02 18:26:17: 
+ 》》》体育频道 源数量:83  去重后: 78
+
+ 2023/01/02 18:27:32: 
+ 》》》体育频道  【全部源数量:  83  |  去重后源数量:  78  |  在线源数量:  28 】
+
+ 2023/01/02 18:27:32: 
+ 》》》影视频道 源数量:75  去重后: 74
+
+ 2023/01/02 18:28:26: 
+ 》》》影视频道  【全部源数量:  75  |  去重后源数量:  74  |  在线源数量:  34 】
+
+ 2023/01/02 18:28:26: 
+ 》》》音乐频道 源数量:10  去重后: 9
+
+ 2023/01/02 18:28:32: 
+ 》》》音乐频道  【全部源数量:  10  |  去重后源数量:  9  |  在线源数量:  4 】
+
+ 2023/01/02 18:28:32: 
+ 》》》新闻频道 源数量:146  去重后: 144
+
+ 2023/01/02 18:30:12: 
+ 》》》新闻频道  【全部源数量:  146  |  去重后源数量:  144  |  在线源数量:  94 】
+
+ 2023/01/02 18:30:12: 
+ 》》》少儿频道 源数量:43  去重后: 41
+
+ 2023/01/02 18:30:27: 
+ 》》》少儿频道  【全部源数量:  43  |  去重后源数量:  41  |  在线源数量:  23 】
+
+ 2023/01/02 18:30:27: 
+ 》》》戏曲频道 源数量:1  去重后: 1
+
+ 2023/01/02 18:30:28: 
+ 》》》戏曲频道  【全部源数量:  1  |  去重后源数量:  1  |  在线源数量:  1 】
+
+ 2023/01/02 18:30:28: 
+ 》》》更多频道 源数量:58  去重后: 54
+
+ 2023/01/02 18:31:13: 
+ 》》》更多频道  【全部源数量:  58  |  去重后源数量:  54  |  在线源数量:  22 】
