@@ -28,12 +28,12 @@ def getsttings(num):
 
 ys_str = ["cctv"]
 ws_str = ["卫视"]
-ty_str = ["体育","cctv5","cctv-5"]
+ty_str = ["体育","體育","cctv5","cctv-5"]
 dy_str = ["影视","影院","电影","cctv6","cctv-6"]
 yy_str = ["音乐","cctv15","cctv-15"]
-xw_str = ["新闻","cctv13","cctv-13"]
+xw_str = ["新闻","新聞","cctv13","cctv-13"]
 se_str = ["少儿","卡通","动画","cctv14","cctv-14"]
-xq_str = ["戏曲"]
+xq_str = ["戏曲","戏剧"]
 gd_str = gdpd()
 alldata_lists=[]
 keep_lists=[]
@@ -41,7 +41,6 @@ owner=getsttings(0)
 repo=getsttings(1)
 branch=getsttings(2)
 token = os.environ['BFtoken']
-
 def get_ua():
     import random
     user_agents = [
@@ -275,6 +274,40 @@ def rd(lists,title):
     printlog(title+" 源数量:"+str(len(lists))+"  去重后: "+str(len(relists)))
     return relists
 
+def px(lists):
+    str2=lists
+    pxmc = []
+    for i in range(len(str2)):
+        str3 = str2[i].split(",")[0]
+        str0 = re.findall(r"\d+\.?\d*",str3)
+        if len(str0) == 0:
+            pxmc.append("999")
+        else:
+            pxmc.append(str0[0])
+    # print("\n源数据")
+    # print(pxmc)
+    index=[]
+    pxh=sorted(pxmc, key=int, reverse=False)
+    # print("排序后")
+    # print(pxh)
+    # print("排序前位置")
+    tem=[]
+    wz=[]
+    for y in range(len(pxmc)):
+        index = [i for i,val in enumerate(pxmc) if val==pxh[y]]
+        # print(index)
+        if index != tem:
+            wz=wz+index
+        tem=index
+    # return wz
+    tem=[]
+    index=[]
+    pxmc=[]
+    pxlist=[]
+    for bf in range(len(wz)):
+        z=int(wz[bf])
+        pxlist.append(str2[z])
+    return pxlist
 
 def start(lists,str_list,title):
 	data_lists = reset_url_lists(lists,str_list)
@@ -282,11 +315,13 @@ def start(lists,str_list,title):
 	print("开始检查\n")
 	ol_d_l = checkLists(rd_data_list)
 	printlog(title+"  【全部源数量:  "+str(len(data_lists))+"  |  去重后源数量:  "+str(len(rd_data_list))+"  |  在线源数量:  "+str(len(ol_d_l))+" 】")
+	print("\n")
+	px_ol_d_l = px(ol_d_l)
 	with open("tvbox_live.txt","a", encoding='utf-8') as file:
 		file.write("\n")
 		file.write(title+",#genre#\n")
-		for line in range(len(ol_d_l)):
-			file.write(ol_d_l[line]+"\n")
+		for line in range(len(px_ol_d_l)):
+			file.write(px_ol_d_l[line]+"\n")
 		file.close()
 
 
@@ -365,6 +400,19 @@ def update_file(filename):
 
 dl_file()
 
+alllists = rd(alldata_lists,"全部")
+px_alllists=px(alllists)
+with open("all_list.txt","a", encoding='utf-8') as file:
+	for line in range(len(px_alllists)):
+		file.write(px_alllists[line]+"\n")
+	file.close()
+
+up_alllists = update_file("all_list.txt")
+if up_alllists != -1:
+    printlog("all_list.txt 已经更新")
+else:
+    printlog("all_list.txt 更新失败")
+
 start(alldata_lists,ys_str,"央视频道")
 
 start(alldata_lists,ws_str,"卫视频道")
@@ -401,3 +449,6 @@ else:
 
 
 printlog("All Done!")
+
+
+
