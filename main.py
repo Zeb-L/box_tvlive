@@ -96,7 +96,7 @@ def downloadfile(dlurl,i,utype):
 					# # f.write(mdata)
 					# print(mdata)
 					alldata_lists=mdata
-					printlog("\n【Success】: "+dlurl)
+					printlog("【Success】: "+dlurl)
 				elif utype == "t":
 					# f.write(data)
 					tdata = data.split("\n")
@@ -105,7 +105,7 @@ def downloadfile(dlurl,i,utype):
 						t_temp = t.find(",")
 						if t_temp != -1:
 							alldata_lists.append(t)
-					printlog("\n【Success】: "+dlurl)
+					printlog("【Success】: "+dlurl)
 				elif utype == "k":
 					# f.write(data)
 					kdata = data.split("\n")
@@ -114,10 +114,10 @@ def downloadfile(dlurl,i,utype):
 						k_temp = k.find(",")
 						if k_temp != -1:
 							keep_lists.append(k)
-					printlog("\n【Success】: "+dlurl)
+					printlog("【Success】: "+dlurl)
 				break
 			except:
-				printlog("\nError:【连接超时】 "+dlurl)
+				printlog("Error:【连接超时】 "+dlurl)
 				printlog("重试第"+str(rc+1)+"次")
 				if str(rc+1) == "3":
 					printlog("Error:【链接失效】 "+dlurl)
@@ -401,8 +401,3 @@ else:
 
 
 printlog("All Done!")
-
-
-
-
-
