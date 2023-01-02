@@ -283,7 +283,7 @@ def px(lists):
         if len(str0) == 0:
             pxmc.append("999")
         else:
-            pxmc.append(str0[0])
+            pxmc.append(int(float(str0[0])))
     # print("\n源数据")
     # print(pxmc)
     index=[]
