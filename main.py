@@ -94,7 +94,8 @@ def downloadfile(dlurl,i,utype):
 							mdata.append(renameurl)
 					# # f.write(mdata)
 					# print(mdata)
-					alldata_lists=mdata
+					for m in range(len(mdata)):
+						alldata_lists.append(mdata[m])
 					printlog("【Success】: "+dlurl)
 				elif utype == "t":
 					# f.write(data)
@@ -317,7 +318,7 @@ def start(lists,str_list,title):
 	printlog(title+"  【全部源数量:  "+str(len(data_lists))+"  |  去重后源数量:  "+str(len(rd_data_list))+"  |  在线源数量:  "+str(len(ol_d_l))+" 】")
 	print("\n")
 	px_ol_d_l = px(ol_d_l)
-	with open("tvbox_live.txt","a", encoding='utf-8') as file:
+	with open("live_lists.txt","a", encoding='utf-8') as file:
 		file.write("\n")
 		file.write(title+",#genre#\n")
 		for line in range(len(px_ol_d_l)):
@@ -327,7 +328,7 @@ def start(lists,str_list,title):
 
 def start_keeplist():
 	if keep_lists != []:
-		with open("tvbox_live.txt","a", encoding='utf-8') as file:
+		with open("live_lists.txt","a", encoding='utf-8') as file:
 			file.write("\n")
 			file.write("自选频道,#genre#\n")
 			for line in range(len(keep_lists)):
@@ -336,11 +337,11 @@ def start_keeplist():
 
 
 def rep_text(old,new):
-    with open(r'tvbox_live.txt', 'r',encoding='UTF-8') as file:
+    with open(r'live_lists.txt', 'r',encoding='UTF-8') as file:
         data = file.read()
         data = data.replace(old, new)
         file.close()
-    with open(r'tvbox_live.txt', 'w',encoding='UTF-8') as file:
+    with open(r'live_lists.txt', 'w',encoding='UTF-8') as file:
         file.write(data)
         file.close()
 
@@ -402,6 +403,7 @@ dl_file()
 
 alllists = rd(alldata_lists,"全部")
 px_alllists=px(alllists)
+
 with open("all_list.txt","a", encoding='utf-8') as file:
 	for line in range(len(px_alllists)):
 		file.write(px_alllists[line]+"\n")
@@ -412,6 +414,8 @@ if up_alllists != -1:
     printlog("all_list.txt 已经更新")
 else:
     printlog("all_list.txt 更新失败")
+
+
 
 start(alldata_lists,ys_str,"央视频道")
 
@@ -441,14 +445,12 @@ if up_log != -1:
 else:
     printlog("log.txt 更新失败")
 
-up_live_list = update_file("tvbox_live.txt")
+up_live_list = update_file("live_lists.txt")
 if up_live_list != -1:
-    printlog("tvbox_live.txt 已经更新")
+    printlog("live_lists.txt 已经更新")
 else:
-    printlog("tvbox_live.txt 更新失败")
+    printlog("live_lists.txt 更新失败")
 
 
 printlog("All Done!")
-
-
 
