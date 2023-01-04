@@ -1,3 +1,4 @@
+txt@=https://ghproxy.com/https://raw.githubusercontent.com/Zeb-L/box_tvlive/bf/%E4%BC%98%E8%B4%A8%E6%BA%90%E5%9C%B0%E5%9D%80.txt
 m3u@=https://ghproxy.com/https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02022-11.m3u
 m3u@=https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 m3u@=https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u
