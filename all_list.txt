@@ -2491,8 +2491,8 @@ GOOD TV CH30 天堂敬拜 (720p) [Not 24/7],https://live.streamingfast.net/osmfl
 时长:30:12-最终痴汉电车 第1话,https://ss.rongliren.com/api/video/m3u8?id=13508&admin=1
 咪咕30,http://111.12.110.63:6610/PLTV/77777777/224/3221225852/index.m3u8?vamoschucktv
 RHK31,http://liuy.usa7.20212021.ga/ns.php?id=96
-RTHK (港台電視31) (360p) [Geo-blocked],https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 RTHK (港台電視31) (1080p),https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RTHK (港台電視31) (360p) [Geo-blocked],https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 GOOD TV CH31 福音佈道音樂會 (720p),https://live.streamingfast.net/osmflivech31.m3u8
 RTHK31,http://120.132.122.244:59845/hls/89/index.m3u8
 埋堆堆31,http://txtest-xp2p.p2p.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.xs
@@ -3605,7 +3605,6 @@ HOY TV (720p),http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist
 鳳凰衛視資訊台HD (720p) [Not 24/7],http://117.169.120.138:8080/live/fhzixun/.m3u8
 Star Chinese Channel HD (卫视中文台) (720p),http://50.7.220.74:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
 TVB News Channel (720p),https://tvp22.sky4k.top/index1.php
-TVB News Channel (720p),http://9.zhxinda.xyz/newss.php?id=1
 ViuTV (720p),https://live.astradamy.com/viutv/index.m3u8
 ViuTVsix (720p),https://live.astradamy.com/viutv6/index.m3u8
 Star Chinese Movies (720p),http://23.237.10.66:16010
@@ -13989,12 +13988,12 @@ BBC One Channel Islands,https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc
 BBC One West Midlands,https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 江西教育[1047*576],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
+安徽卫视 (1080p) [Timeout],http://zbbf2.ahtv.cn/live/749.m3u8
 安徽卫视 (1080p) [Timeout],http://112.25.48.68/live/program/live/ahwshd/4000000/mnf.m3u8
 安徽卫视 (1080p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=2&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 安徽卫视 (1080p),http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
 安徽卫视 (1080p),http://223.110.254.203:6610/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv/1.m3u8
 安徽卫视 (1080p) [Geo-blocked],http://183.207.248.71/cntv/live1/anhuistv/anhuistv
-安徽卫视 (1080p) [Timeout],http://zbbf2.ahtv.cn/live/749.m3u8
 北京衛視 (1080p) [Geo-blocked],http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
 北京卫视 (1080p),http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=30&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 北京卫视 (1080p),http://183.207.248.71/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
@@ -14059,9 +14058,9 @@ CHC动作电影 (1080p) [Not 24/7],http://116.199.5.51:8114/00000000/index.m3u8?
 江西卫视 (1080p),http://112.25.48.68/live/program/live/jxwshd/4000000/mnf.m3u8
 江西卫视 (1080p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=40&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 江西卫视 (1080p),http://183.207.248.71/cntv/live1/jiangxistv/jiangxistv
+江西卫视 (1080p),http://183.207.249.11/PLTV/3/224/3221225536/index.m3u8
 江西卫视 (1080p),http://223.110.245.170/PLTV/3/224/3221225536/index.m3u8
 江西卫视 (1080p),http://223.110.254.199:6610/cntv/live1/jiangxistv/jiangxistv/1.m3u8
-江西卫视 (1080p),http://183.207.249.11/PLTV/3/224/3221225536/index.m3u8
 辽宁卫视 (1080p),http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
 辽宁卫视 (1080p),http://112.25.48.68/live/program/live/lnwshd/4000000/mnf.m3u8
 辽宁卫视 (1080p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=38&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
