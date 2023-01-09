@@ -416,41 +416,44 @@ else:
     printlog("all_list.txt 更新失败")
 
 
+try:
 
-start(alldata_lists,ys_str,"央视频道")
+    start(alldata_lists,ys_str,"央视频道")
 
-start(alldata_lists,ws_str,"卫视频道")
+    start(alldata_lists,ws_str,"卫视频道")
 
-start(alldata_lists,ty_str,"体育频道")
+    start(alldata_lists,ty_str,"体育频道")
 
-start(alldata_lists,dy_str,"影视频道")
+    start(alldata_lists,dy_str,"影视频道")
 
-start(alldata_lists,yy_str,"音乐频道")
+    start(alldata_lists,yy_str,"音乐频道")
 
-start(alldata_lists,xw_str,"新闻频道")
+    start(alldata_lists,xw_str,"新闻频道")
 
-start(alldata_lists,se_str,"少儿频道")
+    start(alldata_lists,se_str,"少儿频道")
 
-start(alldata_lists,xq_str,"戏曲频道")
+    start(alldata_lists,xq_str,"戏曲频道")
 
-start_keeplist()
+    start_keeplist()
 
-start(alldata_lists,gd_str,"更多频道")
+    start(alldata_lists,gd_str,"更多频道")
 
-rep_lists()
-
-up_log = update_file("log.txt")
-if up_log != -1:
-    printlog("log.txt 已经更新")
+    rep_lists()
+except:
+    print("获取数据失败")
 else:
-    printlog("log.txt 更新失败")
+    up_log = update_file("log.txt")
+    if up_log != -1:
+        printlog("log.txt 已经更新")
+    else:
+        printlog("log.txt 更新失败")
 
-up_live_list = update_file("live_lists.txt")
-if up_live_list != -1:
-    printlog("live_lists.txt 已经更新")
-else:
-    printlog("live_lists.txt 更新失败")
+    up_live_list = update_file("live_lists.txt")
+    if up_live_list != -1:
+        printlog("live_lists.txt 已经更新")
+    else:
+        printlog("live_lists.txt 更新失败")
 
 
-printlog("All Done!")
+    printlog("All Done!")
 
