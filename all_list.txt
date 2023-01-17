@@ -13816,9 +13816,9 @@ CHC动作电影 (1080p) [Not 24/7],http://116.199.5.51:8114/00000000/index.m3u8?
 江西卫视 (1080p),http://112.25.48.68/live/program/live/jxwshd/4000000/mnf.m3u8
 江西卫视 (1080p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=40&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 江西卫视 (1080p),http://183.207.248.71/cntv/live1/jiangxistv/jiangxistv
+江西卫视 (1080p),http://183.207.249.11/PLTV/3/224/3221225536/index.m3u8
 江西卫视 (1080p),http://223.110.245.170/PLTV/3/224/3221225536/index.m3u8
 江西卫视 (1080p),http://223.110.254.199:6610/cntv/live1/jiangxistv/jiangxistv/1.m3u8
-江西卫视 (1080p),http://183.207.249.11/PLTV/3/224/3221225536/index.m3u8
 辽宁卫视 (1080p),http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
 辽宁卫视 (1080p),http://112.25.48.68/live/program/live/lnwshd/4000000/mnf.m3u8
 辽宁卫视 (1080p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=38&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
