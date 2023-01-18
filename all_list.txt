@@ -13755,7 +13755,6 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 北京衛視 (1080p) [Geo-blocked],http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
 北京卫视 (1080p),http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=30&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 北京卫视 (1080p),http://183.207.248.71/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
-北京卫视 (1080p),http://183.207.249.8/PLTV/3/224/3221225574/index.m3u8
 北京卫视 (1080p),http://223.110.243.173/PLTV/3/224/3221227246/index.m3u8
 北京卫视 (1080p),http://223.110.245.139/PLTV/4/224/3221227390/index.m3u8
 北京卫视 (1080p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
@@ -13763,6 +13762,7 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 北京卫视 (1080p),http://223.110.245.173/PLTV/4/224/3221227390/index.m3u8
 北京卫视 (1080p),http://ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
 北京卫视 (1080p) [Not 24/7],http://183.207.248.71/cntv/live1/beijingstv/beijingstv
+北京卫视 (1080p),http://183.207.249.8/PLTV/3/224/3221225574/index.m3u8
 CHC动作电影 (1080p) [Not 24/7],http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=119&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 重庆卫视 (1080p),http://223.110.254.137:6610/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv/1.m3u8
 东方卫视 (1080p),http://112.25.48.68/live/program/live/hddfws/4000000/mnf.m3u8
