@@ -99,7 +99,6 @@ CCTV-1综合 (1080p),http://223.110.245.170/PLTV/3/224/3221226316/index.m3u8
 CCTV-1综合 (1080p),http://223.110.245.173/PLTV/4/224/3221227375/index.m3u8
 CCTV-1综合 (1080p),http://183.207.248.71/cntv/live1/cctv-1/cctv-1
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-DaAi1 (大愛1) (720p),http://50.7.220.74:8278/daai_twn/playlist.m3u8?ct=19225&tid=MF5F4357730143577301&tsum=10c092424b1c12259444b68ad663c9eb
 GOOD TV CH1 綜合台 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech1.m3u8
 GTV1 (八大第1台) (720p),http://50.7.220.74:8278/badafirst/playlist.m3u8?ct=17874&tid=mb8efded78b4e12042621&tsum=028ad819cd9a0f949a043d652fa3e164
 CCTV-1,http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
@@ -3575,8 +3574,8 @@ TVB Pearl (珍珠台) (720p),https://live.astradamy.com/tvbpearl/index.m3u8
 Cartoon Network Taiwan (CN卡通频道) (720p),http://50.7.220.74:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
 CTi Asia (中天亞洲台) (720p),http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
 CTi Entertainment (中天娛樂台) (720p),http://50.7.220.74:8278/ctient/playlist.m3u8?ct=17874&tid=m6780c60bd34a13540795&tsum=06089e289a460b0685447b7656d550e3
-CTi Variety (中天綜合台) (720p),http://23.237.10.66:16372
 CTi Variety (中天綜合台) (720p),http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+CTi Variety (中天綜合台) (720p),http://23.237.10.66:16372
 CTS HD (華視) (720p),http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
 CTV (CTV中視) (720p),http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 CTV Classic (中視經典台) (720p),http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?ct=18335&tid=mffe9aaf8765f&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
@@ -13755,6 +13754,7 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 北京衛視 (1080p) [Geo-blocked],http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
 北京卫视 (1080p),http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=30&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 北京卫视 (1080p),http://183.207.248.71/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
+北京卫视 (1080p),http://183.207.249.8/PLTV/3/224/3221225574/index.m3u8
 北京卫视 (1080p),http://223.110.243.173/PLTV/3/224/3221227246/index.m3u8
 北京卫视 (1080p),http://223.110.245.139/PLTV/4/224/3221227390/index.m3u8
 北京卫视 (1080p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
@@ -13762,7 +13762,6 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 北京卫视 (1080p),http://223.110.245.173/PLTV/4/224/3221227390/index.m3u8
 北京卫视 (1080p),http://ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
 北京卫视 (1080p) [Not 24/7],http://183.207.248.71/cntv/live1/beijingstv/beijingstv
-北京卫视 (1080p),http://183.207.249.8/PLTV/3/224/3221225574/index.m3u8
 CHC动作电影 (1080p) [Not 24/7],http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=119&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 重庆卫视 (1080p),http://223.110.254.137:6610/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv/1.m3u8
 东方卫视 (1080p),http://112.25.48.68/live/program/live/hddfws/4000000/mnf.m3u8
