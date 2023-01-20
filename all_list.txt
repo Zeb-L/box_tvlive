@@ -3537,7 +3537,6 @@ NewTV搏击 (720p),http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221
 四川公共 (720p),http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8
 大爱海外 (720p),https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 奇妙電視 (720p),http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-奥视卫星 (720p) [Not 24/7],http://61.244.22.5/ch3/ch3.live/playlist.m3u8
 安徽 Ⅰ 淮北公共 (720p),http://live.0561rtv.cn/ggpd/hd/live.m3u8
 安徽 Ⅰ 淮北综合 (720p),http://live.0561rtv.cn/xwzh/hd/live.m3u8
 安徽 Ⅰ 铜陵公共 (720p),http://dstpush1.retalltech.com/app/stream2.m3u8
@@ -8316,6 +8315,7 @@ SKY SPROTS,http://206.221.176.47:64003
 香港開电视,http://206.221.176.47:64007
 TVB星河,http://206.221.176.47:64020
 mediaco,http://206.221.176.47:64022
+澳门Macau,http://61.244.22.5/ch3/ch3.live/playlist.m3u8
 澳门莲花,http://120.84.96.78:808/hls/24/index.m3u8
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 台湾偶像剧,http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
