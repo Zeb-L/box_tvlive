@@ -82,6 +82,7 @@ CETV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3
 CETV1 (576p),http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1
 中国教育1 (1080p) [Not 24/7],http://39.134.39.39/PLTV/88888888/224/3221226282/index.m3u8
 百事通体育1 (1080p) [Not 24/7],http://112.25.48.68/live/program/live/hdnba1/4000000/mnf.m3u8
+CCTV-1综合 (1080p),http://117.169.120.140:8080/live/cctv-1/.m3u8
 CCTV-1综合 (1080p) [Not 24/7],http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8
 CCTV-1综合 (1080p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=29&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 CCTV-1综合 (1080p),http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=29&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
@@ -96,7 +97,6 @@ CCTV-1综合 (1080p) [Not 24/7],http://223.110.245.165/ott.js.chinamobile.com/PL
 CCTV-1综合 (1080p),http://223.110.245.170/PLTV/3/224/3221225530/index.m3u8
 CCTV-1综合 (1080p),http://223.110.245.170/PLTV/3/224/3221226316/index.m3u8
 CCTV-1综合 (1080p),http://223.110.245.173/PLTV/4/224/3221227375/index.m3u8
-CCTV-1综合 (1080p),http://117.169.120.140:8080/live/cctv-1/.m3u8
 CCTV-1综合 (1080p),http://183.207.248.71/cntv/live1/cctv-1/cctv-1
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 GOOD TV CH1 綜合台 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech1.m3u8
@@ -1376,6 +1376,7 @@ FRESH电影 7 ,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19300/index.
 吉林7频道,http://stream1.jlntv.cn/fzpd/sd/live.m3u8
 吉林7频道,http://stream1.jlntv.cn/fzpd/sd/live.m3u8?zjild
 百事通体育7 (1080p) [Not 24/7],http://112.25.48.68/live/program/live/hdnba7/4000000/mnf.m3u8
+CCTV-7国防军事 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225624/index.m3u8
 CCTV-7国防军事 (1080p),http://117.169.120.140:8080/live/cctv-7/.m3u8
 CCTV-7国防军事 (1080p),http://183.207.248.10/PLTV/3/224/3221225546/index.m3u8
 CCTV-7国防军事 (540p),http://112.25.48.68/live/program/live/cctv7/1300000/mnf.m3u8
@@ -1384,7 +1385,6 @@ CCTV-7国防军事 (1080p) [Not 24/7],http://116.199.5.51:8114/hls/Fsv_chan_hls_
 CCTV-7国防军事 (1080p) [Not 24/7],http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=28&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
 CCTV-7国防军事 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=28&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 CCTV-7国防军事 (360p),http://125.210.152.18:9090/live/CCTV7HD_H265.m3u8
-CCTV-7国防军事 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225624/index.m3u8
 CCTV-7国防军事 (1080p),http://183.207.248.71/cntv/live1/cctv-7/cctv-7
 GOOD TV CH7 禱告大軍 信息 (720p),https://live.streamingfast.net/osmflivech7.m3u8
 CCTV-7,http://39.135.138.58:18890/PLTV/88888888/224/3221225624/index.m3u8
@@ -1492,6 +1492,7 @@ CCTV-8电视剧,http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
  TV8,http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 FRESH电影8 ,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19299/index.m3u8
 IPTV8+,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8
+CCTV-8电视剧 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225635/index.m3u8
 CCTV-8电视剧 (1080p),http://117.169.120.140:8080/live/cctv-8/.m3u8
 CCTV-8电视剧 (1080p),http://183.207.248.35/PLTV/3/224/3221227205/index.m3u8
 CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
@@ -1505,7 +1506,6 @@ CCTV-8电视剧 (1080p),http://223.110.245.170/PLTV/3/224/3221227204/index.m3u8
 CCTV-8电视剧 (1080p),http://223.110.245.170/PLTV/3/224/3221227205/index.m3u8
 CCTV-8电视剧 (1080p),http://223.110.245.172/PLTV/4/224/3221227304/index.m3u8
 CCTV-8电视剧 (1080p),http://ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
-CCTV-8电视剧 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225635/index.m3u8
 CCTV-8电视剧 (1080p),http://183.207.248.71/cntv/live1/cctv-8/cctv-8
 CCTV-8电视剧 (1080p) [Not 24/7],http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv8/HD-2500k-1080P-cctv8
 埋堆堆8,http://txtest-xp2p.p2p.huya.com/src/1199563481163-1199563481163-5444324506032144384-2399127085782-10057-A-0-1.xs
@@ -3374,8 +3374,8 @@ SiTV法治天地 (540p) [Not 24/7],http://112.25.48.68/live/program/live/fztd/13
 四川卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
 四川卫视 (576p),http://183.207.248.71/gitv/live1/SCWS/SCWS
 四川卫视 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
-天津卫视 (576p),http://183.207.249.12/PLTV/4/224/3221225808/index.m3u8
 天津卫视 (576p),http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225808/index.m3u8
+天津卫视 (576p),http://183.207.249.12/PLTV/4/224/3221225808/index.m3u8
 Toonmax TV (576p),http://210.210.155.37/qwr9ew/s/s50/index.m3u8
 延边卫视 (576p),http://223.110.245.139/PLTV/4/224/3221227002/index.m3u8
 康巴卫视 (576p),http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8
