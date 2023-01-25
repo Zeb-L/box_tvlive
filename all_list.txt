@@ -2486,8 +2486,8 @@ GOOD TV CH30 天堂敬拜 (720p) [Not 24/7],https://live.streamingfast.net/osmfl
 时长:30:07-义母 -第 2 话,https://ss.rongliren.com/api/video/m3u8?id=13522&admin=1
 时长:30:12-最终痴汉电车 第1话,https://ss.rongliren.com/api/video/m3u8?id=13508&admin=1
 RHK31,http://liuy.usa7.20212021.ga/ns.php?id=96
-RTHK (港台電視31) (360p) [Geo-blocked],https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 RTHK (港台電視31) (1080p),https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RTHK (港台電視31) (360p) [Geo-blocked],https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 GOOD TV CH31 福音佈道音樂會 (720p),https://live.streamingfast.net/osmflivech31.m3u8
 RTHK31,http://120.132.122.244:59845/hls/89/index.m3u8
 埋堆堆31,http://txtest-xp2p.p2p.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.xs
@@ -3261,7 +3261,6 @@ Xing Kong International (360p),http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 双峰电视一套 (360p),http://hnsf.chinashadt.com:2036/zhuanma/tv1.stream_360p/playlist.m3u8
 吉林卫视 (360p),http://125.210.152.18:9090/live/JLWSHD_H265.m3u8
 山东居家购物 (360p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/gwpd.m3u8
-深州綜合頻道 (360p) [Not 24/7],http://hbsz.chinashadt.com:2036/live/stream:sztv.stream_360p/playlist.m3u8
 美国360 North,http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
 山东农科 (406p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/nkpd.m3u8
 山东少儿 (406p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/sepd.m3u8
@@ -3468,7 +3467,6 @@ TVB翡翠台 (576p),http://116.199.5.52:8114/00000000/index.m3u8?Fsv=&Fsv_SV_PAR
 江苏教育 (576p),http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
 江苏教育 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY
 江苏综艺 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
-深州綜合頻道 (576p) [Not 24/7],http://hbsz.chinashadt.com:2036/live/stream:sztv.stream/playlist.m3u8
 湖南先锋乒羽 (576p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=72&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 湖南都市 (576p),http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8
 澳亚卫视 (576p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=192&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
@@ -8072,6 +8070,8 @@ CGTN纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
 鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
 鹿泉二套,https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8
 深泽综合频道,https://jwcdnqx.hebyun.com.cn/live/shenzedianshi/1500k/tzwj_video.m3u8
+深州综合频道,http://hbsz.chinashadt.com:2036/live/stream:sztv.stream/playlist.m3u8
+深州综合频道,http://hbsz.chinashadt.com:2036/live/stream:sztv.stream_360p/playlist.m3u8
 昌黎综合频道,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
 永清综合频道,http://60.10.203.69:8000/0.m3u8
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
