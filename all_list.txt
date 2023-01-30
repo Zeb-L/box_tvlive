@@ -394,8 +394,8 @@ SPOTV2 (1080p),https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/
 TVB J2,https://j3.lhlh.app/mv.m3u8
 TVB J2 (720p),https://live.astradamy.com/tvbj2/index.m3u8
 DaAi2 (大愛2) (720p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-GOOD TV CH2 真理台 (720p),https://live.streamingfast.net/osmflivech2.m3u8
 Good2 (好消息2台) (720p),http://198.16.64.10:8278/good2_twn/playlist.m3u8?ct=19225&tid=ME9E3966510439665104&tsum=a2788b2ccea04a8a8082d663fb7838e5
+GOOD TV CH2 真理台 (720p),https://live.streamingfast.net/osmflivech2.m3u8
 Sportcast Golf 2 (博斯高球2) (720p),http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?ct=19225&tid=MF5F9848925298489252&tsum=2600464749aadbcd55d1c32ec071e36e
 CCTV-2,http://wtv.weetai.cn/iptv/2022/tyzb01.php?id=cctv2hd
 北京-水长城02,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
@@ -930,7 +930,6 @@ CCTV-5体育 (1080p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv
 CCTV-5体育 (1080p),http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=32&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 CCTV-5体育 (1080p),http://183.207.248.71/cntv/live1/cctv-5/cctv-5
 CCTV-5体育 (1080p) [Not 24/7],http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv5/HD-2500k-1080P-cctv5
-CCTV-5体育 (1080p),http://183.207.249.35/PLTV/4/224/3221227381/index.m3u8
 CCTV-5体育 (1080p),http://223.110.243.137/PLTV/3/224/3221227478/index.m3u8
 CCTV-5体育 (1080p),http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
 CCTV-5体育 (1080p),http://223.110.245.136/PLTV/3/224/3221227166/index.m3u8
@@ -940,6 +939,7 @@ CCTV-5体育 (1080p),http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/32
 CCTV-5体育 (1080p),http://223.110.245.170/PLTV/3/224/3221227166/index.m3u8
 CCTV-5体育 (1080p),http://223.110.245.172/PLTV/4/224/3221227298/index.m3u8
 CCTV-5体育 (1080p),http://ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+CCTV-5体育 (1080p),http://183.207.249.35/PLTV/4/224/3221227381/index.m3u8
 CCTV-5+体育赛事 (1080p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=36&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 CCTV-5+体育赛事 (1080p),http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=36&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 CCTV-5+体育赛事 (1080p),http://183.207.248.71/cntv/live1/CCTV5+/hdcctv05plus
@@ -2990,7 +2990,6 @@ HOY TV (480p),http://uc6.i-cable.com/live_freedirect/opentvhd001.live/playlist.m
 海南卫视 (540p),http://112.25.48.68/live/program/live/lyws/1300000/mnf.m3u8
 河北卫视 (540p),http://112.25.48.68/live/program/live/hbws/1300000/mnf.m3u8
 河南卫视 (540p),http://112.25.48.68/live/program/live/hnws/1300000/mnf.m3u8
-宁夏卫视 (540p),http://112.25.48.68/live/program/live/nxws/1300000/mnf.m3u8
 青海卫视 (540p),http://112.25.48.68/live/program/live/qhws/1300000/mnf.m3u8
 四川卫视 (540p),http://112.25.48.68/live/program/live/scws/1300000/mnf.m3u8
 SiTV七彩戏剧 (540p) [Not 24/7],http://112.25.48.68/live/program/live/qcxj/1300000/mnf.m3u8
@@ -3002,6 +3001,7 @@ SiTV法治天地 (540p) [Not 24/7],http://112.25.48.68/live/program/live/fztd/13
 厦门卫视 (540p) [Not 24/7],http://112.25.48.68/live/program/live/xmws/1300000/mnf.m3u8
 吉林卫视 (540p),http://112.25.48.68/live/program/live/jlws/1300000/mnf.m3u8
 嘉佳卡通 (广东) (540p) [Not 24/7],http://112.25.48.68/live/program/live/jjkt/1300000/mnf.m3u8
+宁夏卫视 (540p),http://112.25.48.68/live/program/live/nxws/1300000/mnf.m3u8
 新疆卫视 (540p),http://112.25.48.68/live/program/live/xjws/1300000/mnf.m3u8
 甘肃公共 (540p) [Not 24/7],https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
 甘肃移动 (540p) [Not 24/7],https://hls.gstv.com.cn/49048r/y72q36.m3u8
@@ -3043,11 +3043,6 @@ SiTV法治天地 (540p) [Not 24/7],http://112.25.48.68/live/program/live/fztd/13
 辽宁卫视 (576p),http://183.207.249.12/PLTV/4/224/3221225802/index.m3u8
 辽宁卫视 (576p),http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8
 辽宁卫视 (576p),http://183.207.248.71/cntv/live1/liaoningstv/liaoningstv
-宁夏卫视 (576p),http://183.207.248.11/PLTV/4/224/3221225842/index.m3u8
-宁夏卫视 (576p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=120&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-宁夏卫视 (576p),http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=120&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-宁夏卫视 (576p),http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
-宁夏卫视 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA
 萍鄉新聞綜合 (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
 青海卫视 (576p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=206&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 青海卫视 (576p),http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=206&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
@@ -3106,6 +3101,11 @@ TVB翡翠台 (576p),http://116.199.5.52:8114/00000000/index.m3u8?Fsv=&Fsv_SV_PAR
 吉林卫视 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8
 嘉佳卡通 (576p),http://223.110.245.139/PLTV/4/224/3221227009/index.m3u8
 女性时尚 (576p),http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8
+宁夏卫视 (576p),http://183.207.248.11/PLTV/4/224/3221225842/index.m3u8
+宁夏卫视 (576p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=120&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+宁夏卫视 (576p),http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=120&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+宁夏卫视 (576p),http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
+宁夏卫视 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA
 家庭理财 (576p),http://223.110.245.139/PLTV/4/224/3221227011/index.m3u8
 山西优购物 (576p) [Not 24/7],http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=55&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 已下线 (576p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=44&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
