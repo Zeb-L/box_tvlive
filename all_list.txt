@@ -3254,8 +3254,8 @@ TVB Pearl (珍珠台) (720p),https://live.astradamy.com/tvbpearl/index.m3u8
 Cartoon Network Taiwan (CN卡通频道) (720p),http://50.7.220.74:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
 CTi Asia (中天亞洲台) (720p),http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
 CTi Entertainment (中天娛樂台) (720p),http://50.7.220.74:8278/ctient/playlist.m3u8?ct=17874&tid=m6780c60bd34a13540795&tsum=06089e289a460b0685447b7656d550e3
-CTi Variety (中天綜合台) (720p),http://23.237.10.66:16372
 CTi Variety (中天綜合台) (720p),http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+CTi Variety (中天綜合台) (720p),http://23.237.10.66:16372
 CTS HD (華視) (720p),http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
 CTV (CTV中視) (720p),http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 CTV Classic (中視經典台) (720p),http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?ct=18335&tid=mffe9aaf8765f&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
