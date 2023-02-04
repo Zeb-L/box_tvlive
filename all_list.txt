@@ -1321,7 +1321,6 @@ FRESH电影8 ,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19299/index.m
 IPTV8+,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8
 CCTV-8电视剧 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225635/index.m3u8
 CCTV-8电视剧 (1080p),http://117.169.120.140:8080/live/cctv-8/.m3u8
-CCTV-8电视剧 (1080p),http://183.207.248.35/PLTV/3/224/3221227205/index.m3u8
 CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
 CCTV-8电视剧 (1080p) [Not 24/7],http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=21&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 CCTV-8电视剧 (576p),http://183.207.248.71/gitv/live1/G_CCTV-8/G_CCTV-8
@@ -1333,6 +1332,7 @@ CCTV-8电视剧 (1080p),http://223.110.245.170/PLTV/3/224/3221227204/index.m3u8
 CCTV-8电视剧 (1080p),http://223.110.245.170/PLTV/3/224/3221227205/index.m3u8
 CCTV-8电视剧 (1080p),http://223.110.245.172/PLTV/4/224/3221227304/index.m3u8
 CCTV-8电视剧 (1080p),http://ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+CCTV-8电视剧 (1080p),http://183.207.248.35/PLTV/3/224/3221227205/index.m3u8
 CCTV-8电视剧 (1080p),http://183.207.248.71/cntv/live1/cctv-8/cctv-8
 CCTV-8电视剧 (1080p) [Not 24/7],http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv8/HD-2500k-1080P-cctv8
 埋堆堆8,http://txtest-xp2p.p2p.huya.com/src/1199563481163-1199563481163-5444324506032144384-2399127085782-10057-A-0-1.xs
