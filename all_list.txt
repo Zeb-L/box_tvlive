@@ -394,8 +394,8 @@ SPOTV2 (1080p),https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/
 TVB J2,https://j3.lhlh.app/mv.m3u8
 TVB J2 (720p),https://live.astradamy.com/tvbj2/index.m3u8
 DaAi2 (大愛2) (720p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-Good2 (好消息2台) (720p),http://198.16.64.10:8278/good2_twn/playlist.m3u8?ct=19225&tid=ME9E3966510439665104&tsum=a2788b2ccea04a8a8082d663fb7838e5
 GOOD TV CH2 真理台 (720p),https://live.streamingfast.net/osmflivech2.m3u8
+Good2 (好消息2台) (720p),http://198.16.64.10:8278/good2_twn/playlist.m3u8?ct=19225&tid=ME9E3966510439665104&tsum=a2788b2ccea04a8a8082d663fb7838e5
 Sportcast Golf 2 (博斯高球2) (720p),http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?ct=19225&tid=MF5F9848925298489252&tsum=2600464749aadbcd55d1c32ec071e36e
 CCTV-2,http://wtv.weetai.cn/iptv/2022/tyzb01.php?id=cctv2hd
 北京-水长城02,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
@@ -1321,6 +1321,7 @@ FRESH电影8 ,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19299/index.m
 IPTV8+,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8
 CCTV-8电视剧 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225635/index.m3u8
 CCTV-8电视剧 (1080p),http://117.169.120.140:8080/live/cctv-8/.m3u8
+CCTV-8电视剧 (1080p),http://183.207.248.35/PLTV/3/224/3221227205/index.m3u8
 CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
 CCTV-8电视剧 (1080p) [Not 24/7],http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=21&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 CCTV-8电视剧 (576p),http://183.207.248.71/gitv/live1/G_CCTV-8/G_CCTV-8
@@ -1332,7 +1333,6 @@ CCTV-8电视剧 (1080p),http://223.110.245.170/PLTV/3/224/3221227204/index.m3u8
 CCTV-8电视剧 (1080p),http://223.110.245.170/PLTV/3/224/3221227205/index.m3u8
 CCTV-8电视剧 (1080p),http://223.110.245.172/PLTV/4/224/3221227304/index.m3u8
 CCTV-8电视剧 (1080p),http://ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
-CCTV-8电视剧 (1080p),http://183.207.248.35/PLTV/3/224/3221227205/index.m3u8
 CCTV-8电视剧 (1080p),http://183.207.248.71/cntv/live1/cctv-8/cctv-8
 CCTV-8电视剧 (1080p) [Not 24/7],http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv8/HD-2500k-1080P-cctv8
 埋堆堆8,http://txtest-xp2p.p2p.huya.com/src/1199563481163-1199563481163-5444324506032144384-2399127085782-10057-A-0-1.xs
@@ -1672,13 +1672,13 @@ CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8$超清
 CCTV-13新闻,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000021303/1.m3u8?Contentid=1000000002000021303&amp;livemode=1&amp;stbId=3&amp;channel-id=ystenlive
 CCTV-13新闻,http://183.207.249.12/PLTV/3/224/3221225560/index.m3u8
 CCTV-13新闻 (720p),http://117.169.120.140:8080/live/cctv-13/.m3u8
+CCTV-13新闻 (576p),http://stream4.jlntv.cn/cctv13/sd/live.m3u8
 CCTV-13新闻 (540p),http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8
 CCTV-13新闻 (576p) [Not 24/7],http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=64&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 CCTV-13新闻 (576p),http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=64&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 CCTV-13新闻 (576p),http://125.210.152.18:9090/live/CCTV13_750.m3u8
 CCTV-13新闻 (1080p),http://183.207.248.71/cntv/live1/cctv-13/cctv-13
 CCTV-13新闻 (1080p) [Not 24/7],http://223.110.245.170/PLTV/3/224/3221225560/index.m3u8
-CCTV-13新闻 (576p),http://stream4.jlntv.cn/cctv13/sd/live.m3u8
 CCTV-13,http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
 埋堆堆13,http://txtest-xp2p.p2p.huya.com/src/1199561223732-1199561223732-5434628913714167808-2399122570920-10057-A-0-1.xs
 CCTV13,http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
