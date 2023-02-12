@@ -1077,8 +1077,8 @@ CCTV-6电影 (1080p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/32
 CCTV-6电影 (1080p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227301/index.m3u8
 CCTV-6电影 (1080p),http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8
 CCTV-6电影 (1080p),http://223.110.245.173/PLTV/3/224/3221225548/index.m3u8
-CCTV-6电影 (1080p),http://117.169.120.140:8080/live/cctv-6/.m3u8
 CCTV-6电影 (1080p),http://183.207.248.37/PLTV/3/224/3221227209/index.m3u8
+CCTV-6电影 (1080p),http://117.169.120.140:8080/live/cctv-6/.m3u8
 GOOD TV CH6 親近神 詩歌音樂 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech6.m3u8
 CCTV-6,http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
 埋堆堆6,http://txtest-xp2p.p2p.huya.com/src/1199563484986-1199563484986-5444340925692116992-2399127093428-10057-A-0-1.xs
@@ -1227,9 +1227,9 @@ CCTV-7国防军事 (1080p) [Not 24/7],http://116.199.5.51:8114/hls/Fsv_chan_hls_
 CCTV-7国防军事 (1080p) [Not 24/7],http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=28&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
 CCTV-7国防军事 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=28&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 CCTV-7国防军事 (360p),http://125.210.152.18:9090/live/CCTV7HD_H265.m3u8
+CCTV-7国防军事 (1080p),http://183.207.248.10/PLTV/3/224/3221225546/index.m3u8
 CCTV-7国防军事 (1080p),http://183.207.248.71/cntv/live1/cctv-7/cctv-7
 CCTV-7国防军事 (1080p),http://117.169.120.140:8080/live/cctv-7/.m3u8
-CCTV-7国防军事 (1080p),http://183.207.248.10/PLTV/3/224/3221225546/index.m3u8
 GOOD TV CH7 禱告大軍 信息 (720p),https://live.streamingfast.net/osmflivech7.m3u8
 CCTV-7,http://39.135.138.58:18890/PLTV/88888888/224/3221225624/index.m3u8
 CCTV-7,http://39.135.138.58:18890/PLTV/88888888/224/3221225644/index.m3u8
@@ -1331,10 +1331,10 @@ CCTV-8电视剧 (1080p),http://223.110.245.170/PLTV/3/224/3221227204/index.m3u8
 CCTV-8电视剧 (1080p),http://223.110.245.170/PLTV/3/224/3221227205/index.m3u8
 CCTV-8电视剧 (1080p),http://223.110.245.172/PLTV/4/224/3221227304/index.m3u8
 CCTV-8电视剧 (1080p),http://ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+CCTV-8电视剧 (1080p),http://183.207.248.35/PLTV/3/224/3221227205/index.m3u8
 CCTV-8电视剧 (1080p),http://183.207.248.71/cntv/live1/cctv-8/cctv-8
 CCTV-8电视剧 (1080p) [Not 24/7],http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv8/HD-2500k-1080P-cctv8
 CCTV-8电视剧 (1080p),http://117.169.120.140:8080/live/cctv-8/.m3u8
-CCTV-8电视剧 (1080p),http://183.207.248.35/PLTV/3/224/3221227205/index.m3u8
 埋堆堆8,http://txtest-xp2p.p2p.huya.com/src/1199563481163-1199563481163-5444324506032144384-2399127085782-10057-A-0-1.xs
 CCTV-8,http://120.236.17.34:808/hls/10/index.m3u8
 冬奥纪实8K[1920*1080],http://117.148.179.157/PLTV/88888888/224/3221233395/index.m3u8
