@@ -394,8 +394,8 @@ SPOTV2 (1080p),https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/
 TVB J2,https://j3.lhlh.app/mv.m3u8
 TVB J2 (720p),https://live.astradamy.com/tvbj2/index.m3u8
 DaAi2 (大愛2) (720p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-GOOD TV CH2 真理台 (720p),https://live.streamingfast.net/osmflivech2.m3u8
 Good2 (好消息2台) (720p),http://198.16.64.10:8278/good2_twn/playlist.m3u8?ct=19225&tid=ME9E3966510439665104&tsum=a2788b2ccea04a8a8082d663fb7838e5
+GOOD TV CH2 真理台 (720p),https://live.streamingfast.net/osmflivech2.m3u8
 Sportcast Golf 2 (博斯高球2) (720p),http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?ct=19225&tid=MF5F9848925298489252&tsum=2600464749aadbcd55d1c32ec071e36e
 CCTV-2,http://wtv.weetai.cn/iptv/2022/tyzb01.php?id=cctv2hd
 北京-水长城02,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
