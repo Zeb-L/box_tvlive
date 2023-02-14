@@ -1,129 +1,213 @@
 
- 2023/02/14 04:17:45: 
+ 2023/02/15 04:17:32: 
  》》》【Success】: https://ghproxy.com/https://raw.githubusercontent.com/Zeb-L/box_tvlive/bf/%E4%BC%98%E8%B4%A8%E6%BA%90%E5%9C%B0%E5%9D%80.txt
 
 
- 2023/02/14 04:17:47: 
+ 2023/02/15 04:17:35: 
  》》》【Success】: https://ghproxy.com/https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02022-11.m3u
 
 
- 2023/02/14 04:17:48: 
- 》》》【Success】: https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+ 2023/02/15 04:17:36: 
+ 》》》Error:【连接超时】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 
 
- 2023/02/14 04:17:50: 
- 》》》【Success】: https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u
+ 2023/02/15 04:17:36: 
+ 》》》重试第1次
+
+ 2023/02/15 04:17:37: 
+ 》》》Error:【连接超时】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 
 
- 2023/02/14 04:17:51: 
- 》》》【Success】: https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
+ 2023/02/15 04:17:37: 
+ 》》》重试第2次
+
+ 2023/02/15 04:17:38: 
+ 》》》Error:【连接超时】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 
 
- 2023/02/14 04:17:52: 
- 》》》【Success】: https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
+ 2023/02/15 04:17:38: 
+ 》》》重试第3次
+
+ 2023/02/15 04:17:38: 
+ 》》》Error:【链接失效】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 
 
- 2023/02/14 04:17:53: 
+ 2023/02/15 04:17:39: 
+ 》》》Error:【连接超时】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u
+
+
+ 2023/02/15 04:17:39: 
+ 》》》重试第1次
+
+ 2023/02/15 04:17:40: 
+ 》》》Error:【连接超时】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u
+
+
+ 2023/02/15 04:17:40: 
+ 》》》重试第2次
+
+ 2023/02/15 04:17:41: 
+ 》》》Error:【连接超时】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u
+
+
+ 2023/02/15 04:17:41: 
+ 》》》重试第3次
+
+ 2023/02/15 04:17:41: 
+ 》》》Error:【链接失效】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u
+
+
+ 2023/02/15 04:17:42: 
+ 》》》Error:【连接超时】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
+
+
+ 2023/02/15 04:17:42: 
+ 》》》重试第1次
+
+ 2023/02/15 04:17:43: 
+ 》》》Error:【连接超时】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
+
+
+ 2023/02/15 04:17:43: 
+ 》》》重试第2次
+
+ 2023/02/15 04:17:43: 
+ 》》》Error:【连接超时】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
+
+
+ 2023/02/15 04:17:43: 
+ 》》》重试第3次
+
+ 2023/02/15 04:17:43: 
+ 》》》Error:【链接失效】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
+
+
+ 2023/02/15 04:17:44: 
+ 》》》Error:【连接超时】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
+
+
+ 2023/02/15 04:17:44: 
+ 》》》重试第1次
+
+ 2023/02/15 04:17:45: 
+ 》》》Error:【连接超时】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
+
+
+ 2023/02/15 04:17:45: 
+ 》》》重试第2次
+
+ 2023/02/15 04:17:46: 
+ 》》》Error:【连接超时】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
+
+
+ 2023/02/15 04:17:46: 
+ 》》》重试第3次
+
+ 2023/02/15 04:17:46: 
+ 》》》Error:【链接失效】 https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
+
+
+ 2023/02/15 04:17:48: 
  》》》【Success】: https://ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
 
 
- 2023/02/14 04:17:56: 
+ 2023/02/15 04:17:50: 
  》》》【Success】: http://52bsj.vip:81/api/v3/file/get/59999/chao.txt?sign=MxUTj-WzZR3Nf8K1Sbdc0jbv5_UguTzDEfXoaBc5qTA%3D%3A0
 
 
- 2023/02/14 04:17:58: 
+ 2023/02/15 04:17:52: 
  》》》【Success】: https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/LIVE/Free/tvbox_live.txt
 
 
- 2023/02/14 04:17:59: 
+ 2023/02/15 04:17:54: 
  》》》Error:【连接超时】 https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
 
 
- 2023/02/14 04:17:59: 
+ 2023/02/15 04:17:54: 
  》》》重试第1次
 
- 2023/02/14 04:18:00: 
+ 2023/02/15 04:17:55: 
  》》》Error:【连接超时】 https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
 
 
- 2023/02/14 04:18:00: 
+ 2023/02/15 04:17:55: 
  》》》重试第2次
 
- 2023/02/14 04:18:01: 
+ 2023/02/15 04:17:57: 
  》》》Error:【连接超时】 https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
 
 
- 2023/02/14 04:18:01: 
+ 2023/02/15 04:17:57: 
  》》》重试第3次
 
- 2023/02/14 04:18:01: 
+ 2023/02/15 04:17:57: 
  》》》Error:【链接失效】 https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
 
 
- 2023/02/14 04:18:03: 
+ 2023/02/15 04:17:59: 
  》》》【Success】: https://ghproxy.com/https://raw.githubusercontent.com/Zeb-L/box_tvlive/bf/%E8%87%AA%E9%80%89%E9%A2%91%E9%81%93.txt
 
 
- 2023/02/14 04:18:05: 
+ 2023/02/15 04:18:00: 
  》》》【Success】: https://raw.iqiq.io/zgzdhz/zdhz/main/%E5%90%88%E9%9B%86.txt
 
 
- 2023/02/14 04:18:06: 
- 》》》全部 源数量:20086  去重后: 13025
+ 2023/02/15 04:18:01: 
+ 》》》全部 源数量:18935  去重后: 12239
 
- 2023/02/14 04:18:19: 
+ 2023/02/15 04:18:16: 
  》》》all_list.txt 已经更新
 
- 2023/02/14 04:18:19: 
+ 2023/02/15 04:18:16: 
  》》》央视频道 源数量:1692  去重后: 946
 
- 2023/02/14 04:36:00: 
- 》》》央视频道  【全部源数量:  1692  |  去重后源数量:  946  |  在线源数量:  346 】
+ 2023/02/15 04:35:16: 
+ 》》》央视频道  【全部源数量:  1692  |  去重后源数量:  946  |  在线源数量:  334 】
 
- 2023/02/14 04:36:00: 
- 》》》卫视频道 源数量:2202  去重后: 1052
+ 2023/02/15 04:35:16: 
+ 》》》卫视频道 源数量:2199  去重后: 1049
 
- 2023/02/14 04:57:37: 
- 》》》卫视频道  【全部源数量:  2202  |  去重后源数量:  1052  |  在线源数量:  430 】
+ 2023/02/15 04:54:36: 
+ 》》》卫视频道  【全部源数量:  2199  |  去重后源数量:  1049  |  在线源数量:  433 】
 
- 2023/02/14 04:57:37: 
+ 2023/02/15 04:54:36: 
  》》》体育频道 源数量:363  去重后: 219
 
- 2023/02/14 05:01:34: 
- 》》》体育频道  【全部源数量:  363  |  去重后源数量:  219  |  在线源数量:  71 】
+ 2023/02/15 04:58:02: 
+ 》》》体育频道  【全部源数量:  363  |  去重后源数量:  219  |  在线源数量:  81 】
 
- 2023/02/14 05:01:34: 
+ 2023/02/15 04:58:02: 
  》》》影视频道 源数量:924  去重后: 470
 
- 2023/02/14 05:11:13: 
+ 2023/02/15 05:06:43: 
  》》》影视频道  【全部源数量:  924  |  去重后源数量:  470  |  在线源数量:  195 】
 
- 2023/02/14 05:11:13: 
+ 2023/02/15 05:06:43: 
  》》》音乐频道 源数量:87  去重后: 50
 
- 2023/02/14 05:12:01: 
- 》》》音乐频道  【全部源数量:  87  |  去重后源数量:  50  |  在线源数量:  16 】
+ 2023/02/15 05:07:28: 
+ 》》》音乐频道  【全部源数量:  87  |  去重后源数量:  50  |  在线源数量:  15 】
 
- 2023/02/14 05:12:01: 
- 》》》新闻频道 源数量:1999  去重后: 1271
+ 2023/02/15 05:07:28: 
+ 》》》新闻频道 源数量:1986  去重后: 1265
 
- 2023/02/14 05:36:32: 
- 》》》新闻频道  【全部源数量:  1999  |  去重后源数量:  1271  |  在线源数量:  598 】
+ 2023/02/15 05:27:46: 
+ 》》》新闻频道  【全部源数量:  1986  |  去重后源数量:  1265  |  在线源数量:  637 】
 
- 2023/02/14 05:36:32: 
+ 2023/02/15 05:27:46: 
  》》》少儿频道 源数量:352  去重后: 188
 
- 2023/02/14 05:40:34: 
- 》》》少儿频道  【全部源数量:  352  |  去重后源数量:  188  |  在线源数量:  64 】
+ 2023/02/15 05:31:24: 
+ 》》》少儿频道  【全部源数量:  352  |  去重后源数量:  188  |  在线源数量:  67 】
 
- 2023/02/14 05:40:34: 
- 》》》戏曲频道 源数量:93  去重后: 49
+ 2023/02/15 05:31:24: 
+ 》》》戏曲频道 源数量:92  去重后: 48
 
- 2023/02/14 05:41:35: 
- 》》》戏曲频道  【全部源数量:  93  |  去重后源数量:  49  |  在线源数量:  12 】
+ 2023/02/15 05:32:21: 
+ 》》》戏曲频道  【全部源数量:  92  |  去重后源数量:  48  |  在线源数量:  12 】
 
- 2023/02/14 05:41:36: 
- 》》》更多频道 源数量:947  去重后: 522
+ 2023/02/15 05:32:21: 
+ 》》》更多频道 源数量:946  去重后: 521
 
- 2023/02/14 05:52:09: 
- 》》》更多频道  【全部源数量:  947  |  去重后源数量:  522  |  在线源数量:  144 】
+ 2023/02/15 05:42:12: 
+ 》》》更多频道  【全部源数量:  946  |  去重后源数量:  521  |  在线源数量:  135 】
