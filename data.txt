@@ -1,12 +1,3 @@
 txt@=https://ghproxy.com/https://raw.githubusercontent.com/Zeb-L/box_tvlive/bf/%E4%BC%98%E8%B4%A8%E6%BA%90%E5%9C%B0%E5%9D%80.txt
-m3u@=https://ghproxy.com/https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02022-11.m3u
-m3u@=https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-m3u@=https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u
-m3u@=https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
-m3u@=https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
-m3u@=https://ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
-txt@=http://52bsj.vip:81/api/v3/file/get/59999/chao.txt?sign=MxUTj-WzZR3Nf8K1Sbdc0jbv5_UguTzDEfXoaBc5qTA%3D%3A0
-txt@=https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/LIVE/Free/tvbox_live.txt
 m3u@=https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
-keep@=https://ghproxy.com/https://raw.githubusercontent.com/Zeb-L/box_tvlive/bf/%E8%87%AA%E9%80%89%E9%A2%91%E9%81%93.txt
 keep@=https://raw.iqiq.io/zgzdhz/zdhz/main/%E5%90%88%E9%9B%86.txt
